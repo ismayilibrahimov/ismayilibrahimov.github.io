@@ -376,3 +376,7 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+.imgBorder {
+  border: 1px solid #D7D5D5;
+}

@@ -142,7 +142,7 @@ section h2 {
     transition: padding-top 0.3s, padding-bottom 0.3s;
   }
   #mainNav .navbar-brand {
-    font-size: 2em;
+    font-size: 1.5em;
     -webkit-transition: font-size 0.3s;
     transition: font-size 0.3s;
   }
